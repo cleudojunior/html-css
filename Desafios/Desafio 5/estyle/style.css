@@ -58,8 +58,6 @@ a:hover {
 
 main {
     font-family: var(--font-conteudo);
-    font-style: italic;
-    font-weight: bold;
 }
 
 section {
@@ -95,10 +93,6 @@ section > p {
     color: white;
     padding: 5px;
     text-shadow: 1px 1px 1px black;
-}
-
-.normal {
-    
 }
 
 .normal > p {
