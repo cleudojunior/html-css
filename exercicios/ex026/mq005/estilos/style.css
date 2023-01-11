@@ -33,12 +33,8 @@ span#burguer:hover {
     color: black;
 }
 
-input[type="checkbox"]:checked ~ header nav {
-    display: block; 
-}
-
 nav {
-    display: block;
+    display: none;
 }
 
 nav > ul {
